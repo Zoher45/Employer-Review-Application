@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /login/
+Disallow: /register/
+Allow: /index.php
+Allow: /employer_rankings.php
+Allow: /individual_employer_reviews.php
+Disallow: /review_employer.php
